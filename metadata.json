@@ -1,0 +1,5 @@
+{
+  "name": "KOFA Tournament Manager",
+  "description": "A modern eFootball tournament management system for the Kingdom of Football Association, featuring real-time standings, player statistics, and an admin dashboard.",
+  "requestFramePermissions": []
+}
